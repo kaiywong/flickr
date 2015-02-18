@@ -1,4 +1,4 @@
-Ticket Master Coding challenge - K Y Wong
+Flickr search page test- K Y Wong
 
 The test was to integrate a flicker search, image viewer and pagination with the complication of building it, where possible, without the use of third-party libraries or frameworks.
 
